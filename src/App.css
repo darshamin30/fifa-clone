@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Poppins';
 }
 
 .App-logo {
@@ -35,4 +36,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.homepage {
+  display: flex;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.filters-container {
+  width: 20%;
+  padding: 1rem;
+}
+
+.listing-container {
+  width: 75%;
+  padding: 1rem;
+}
+
+.rarity-filter {
+  margin-top: 50px;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./fonts/Poppins-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
 }

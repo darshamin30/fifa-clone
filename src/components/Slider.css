@@ -1,0 +1,18 @@
+.slider {
+    position: relative;
+    width: 50%;
+    height: 2rem;
+    margin: 1rem 0;
+    display: flex;
+    align-items: flex-start;
+    align-self: flex-start;
+  }
+  
+  .price-range-label {
+    margin-left: auto;
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 700;
+    color: #ccc;
+  }
