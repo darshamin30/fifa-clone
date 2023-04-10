@@ -13,19 +13,19 @@ function Navbar() {
     <nav className="navbar">
       <ul className="navbar-links">
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/">DROPS</Link>
         </li>
         <li>
-          <Link to="/about">About Us</Link>
+          <Link to="/">MARKETPLACE</Link>
         </li>
         <li>
-          <Link to="/products">Products</Link>
+          <Link to="/">MY COLLECTION</Link>
         </li>
         <li>
-          <Link to="/services">Services</Link>
+          <Link to="/">CHALLENGES</Link>
         </li>
         <li>
-          <Link to="/contact">Contact Us</Link>
+          <Link to="/">FIFA+</Link>
         </li>
       </ul>
       <div className="language-dropdown">
